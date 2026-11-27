@@ -42,6 +42,8 @@ static double calculator(double num1, double num2, char operator){
         System.out.println("The quotient: " + calculator(20,10,'/'));
         System.out.println("The product: " + calculator(20,10,'*'));
         System.out.println("======================================");   
+
+        System.out.println("FINISH")
        
         
         
